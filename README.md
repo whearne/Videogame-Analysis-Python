@@ -1,4 +1,4 @@
-# Video Game Sales Analysis Project
+# Video Game Sales Analysis Project ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 This project analyses video game sales data to uncover insights about sales trends across different genres, platforms, and regions. It uses data visualisation techniques to explore patterns and distributions in the video game market.
 
 ## Features
